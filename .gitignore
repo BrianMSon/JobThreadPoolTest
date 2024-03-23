@@ -1,0 +1,4 @@
+/.vs
+/x64
+/JobThreadPoolTest/x64
+/JobThreadPoolTest/*.log
